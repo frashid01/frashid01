@@ -6,7 +6,7 @@ Driven, flexible, dedicated, collaborating and highly skilled Front-End Develope
 complex, and accessible user interfaces and applications with strong background in capital markets, web technologies, web development, 
 responsive design, React, Redux, JavaScript, TypeScript, HTML, CSS and Quality Assurance Tester.
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,redux,ts,bootstrap,tailwind,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,redux,ts,bootstrap,tailwind,angular)](https://skillicons.dev)
 
 # **Work Experience** 📃
 
